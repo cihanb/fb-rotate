@@ -8,7 +8,7 @@
 *~.nib/
 */build/*
 *.app/
-
+fb-rotate
 
 
 # Textmate - if you build your xcode projects with it
